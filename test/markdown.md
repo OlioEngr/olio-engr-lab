@@ -1,15 +1,15 @@
-== Markdown! ==
+## Markdown! ##
 
-=== more markdown ===
+### more markdown ##
 
-_underline_
--strikethrough?-
-#bold?#
+_Italics_
+<strike>strike-through?</strike>
+*Italics*
 
  * bulet point 1
  * bulet point 2
  * bulet point 3
 
- # numbered point?
- # numbered point #2?
+ 1. numbered point #1
+ 1. numbered point #2
  
